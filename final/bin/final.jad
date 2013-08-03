@@ -1,0 +1,9 @@
+MIDlet-Jar-Size: 39322
+MIDlet-Jar-URL: final.jar
+MIDlet-Name: final
+MIDlet-Vendor: GameProgramming
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Data-Size: 1024
+MIDlet-1: gameApp,,gameApp
